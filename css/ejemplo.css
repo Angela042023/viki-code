@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+
+    margin: 0;
+    padding: 0;
+}
+
+.menu{
+    background-color: aquamarine;
+    height: 5rem;
+ 
+}
+
+.slider{
+    background-color: brown;
+    height: 20rem;
+}
+.caja1{
+    background-color: black;
+    height: 15rem;
+}
+.caja2{
+    background-color: rgb(58, 8, 222);
+    height: 15rem;
+}
+.caja3{
+    background-color: rgb(30, 187, 93);
+    height: 15rem;
+}
+.caja4{
+    background-color: rgb(6, 241, 229);
+    height: 15rem;
+
+}
+.cajita1{
+    background-color: rgb(165, 90, 90);
+    height: 5rem;
+}
+.cajita2{
+    background-color: rgb(20, 13, 44);
+    height: 5rem;
+}
+.cajita3{
+    background-color: rgb(247, 178, 132);
+    height: 5rem;
+}
+.cajita4{
+    background-color: rgb(64, 142, 160);
+    height: 5rem;
+}
+
+.cajitamini1{
+    background-color: rgb(33, 3, 3);
+    height: 5rem;
+}
+.cajitamini2{
+    background-color: rgb(6, 145, 80);
+    height: 5rem;
+}
+.cajitamini3{
+    background-color: rgb(233, 196, 171);
+    height: 5rem;
+}
+.cajitamini4{
+    background-color: rgb(34, 57, 62);
+    height: 5rem;
+}

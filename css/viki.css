@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.menu {
+    background-color: rgb(254, 136, 136);
+    height: 6rem;
+    
+}
+.slider {
+    background-color: rgb(80, 4, 4);
+    height: 20rem;
+}
