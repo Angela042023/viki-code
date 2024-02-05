@@ -4,27 +4,18 @@
     box-sizing: border-box;
 }
 
+
 body {
     margin: 0;
     padding: 0;
     background-color: black;
 }
 
-.menu {
-    background-color: rgb(254, 136, 136);
-    height: 6rem;
-}
-h1,h2,h3,h4,h5,h6{
+h1{
 
     color: white;
 }
 
-
-.footer{
-
-    text-align: right;
-     color: white;
-     font-family: tango;
-       
-   }
-
+p{
+    color: rgb(255, 187, 0);
+}
